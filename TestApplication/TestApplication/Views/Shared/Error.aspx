@@ -8,7 +8,7 @@
 <body>
     <hgroup>
         <h1>Errorgpohlgju.</h1>
-        <h2>An error occurred  ehr ergwhile processing your request.</h2>
+        <h2>An error occurred  ehrr hrt h ergwhile processing your request.</h2>
     </hgroup>
 </body>
 </html>
